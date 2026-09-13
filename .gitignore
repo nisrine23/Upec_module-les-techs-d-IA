@@ -1,0 +1,20 @@
+# Environnements virtuels
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Données générées (facultatif, décommente si tu ne veux pas les pousser)
+# tp_formats_big_data/data/
